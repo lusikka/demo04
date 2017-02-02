@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 namespace ElevatorApplication
 {
     class Elevator
-    {
-        private readonly int maxFloor = 5;
+    {    
         private int floor;
         public int Floor
         {
@@ -24,7 +23,7 @@ namespace ElevatorApplication
                 }
                 else if (value > 5)
                 {
-                    Console.WriteLine("You fucking retard there are only 5 floors lmAO lol,,");
+                    Console.WriteLine("You fucking reject there are only 5 floors lmAO lol,,");
 
                 }
                 else if (value < 1)
