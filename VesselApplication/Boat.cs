@@ -10,5 +10,9 @@ namespace VesselApplication
     {
         public string BoatType { get; set; }
         public int SeatSum { get; set; }
+        public override string ToString()
+        {
+            return base.ToString() + " Type of boat: " + BoatType + " Number of seats: " + SeatSum; 
+        }
     }
 }

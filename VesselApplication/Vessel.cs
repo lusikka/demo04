@@ -11,6 +11,7 @@ namespace VesselApplication
         public string Name { get; set; }
         public string Color { get; set; }
         public int Year { get; set; }
+        public string Model { get; set; }
         public override string ToString()
         {
             return "Name: " + Name + " Color: " + Color + " Model Year: " + Year;

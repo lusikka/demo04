@@ -10,6 +10,9 @@ namespace VesselApplication
     {
         public bool Gear { get; set; }
         public string GearName { get; set; }
-
+        public override string ToString()
+        {
+            return base.ToString() + " Gear: " + Gear + " Possible gear name: " + GearName;                            
+        }
     }
 }
