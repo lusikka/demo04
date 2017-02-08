@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmpApplication", "AmpApplic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonT3", "PersonT3\PersonT3.csproj", "{8A1961BA-CEF1-48E4-91A3-5729EA8FF2DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VesselApplication", "VesselApplication\VesselApplication.csproj", "{1DC2CBCD-4ABF-4F33-822E-D1DE44562D26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8A1961BA-CEF1-48E4-91A3-5729EA8FF2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A1961BA-CEF1-48E4-91A3-5729EA8FF2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A1961BA-CEF1-48E4-91A3-5729EA8FF2DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DC2CBCD-4ABF-4F33-822E-D1DE44562D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC2CBCD-4ABF-4F33-822E-D1DE44562D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC2CBCD-4ABF-4F33-822E-D1DE44562D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC2CBCD-4ABF-4F33-822E-D1DE44562D26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
