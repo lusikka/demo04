@@ -23,7 +23,7 @@ namespace ElevatorApplication
                 }
                 else if (value > 5)
                 {
-                    Console.WriteLine("You fucking reject there are only 5 floors lmAO lol,,");
+                    Console.WriteLine("You reject there are only 5 floors lmAO lol,,");
 
                 }
                 else if (value < 1)
